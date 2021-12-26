@@ -1,0 +1,16 @@
+3gppnetwork.org
+epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+izatcloud.net
+pub.3gppnetwork.org
+xtra1.izatcloud.net
+xtra2.izatcloud.net
+xtra3.izatcloud.net
+xtra4.izatcloud.net
+xtra5.izatcloud.net
+xtra6.izatcloud.net
+xtrapath1.izatcloud.net
+xtrapath2.izatcloud.net
+xtrapath3.izatcloud.net
+xtrapath4.izatcloud.net
+xtrapath5.izatcloud.net
+xtrapath6.izatcloud.net

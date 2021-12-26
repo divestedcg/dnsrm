@@ -1,0 +1,15 @@
+1.android.pool.ntp.org
+1.fedora.pool.ntp.org
+2.android.pool.ntp.org
+2.fedora.pool.ntp.org
+3.android.pool.ntp.org
+3.fedora.pool.ntp.org
+asia.pool.ntp.org
+europe.pool.ntp.org
+izatcloud.net
+north-america.pool.ntp.org
+ntp.org
+pool.ntp.org
+time.gpsonextra.net
+time.izatcloud.net
+www.ntp.org

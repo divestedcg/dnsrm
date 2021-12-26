@@ -1,0 +1,14 @@
+akadns.net
+akamaiedge.net
+akamaihd.net
+akamai.net
+akamaitechnologies.com
+akamaized.net
+com.akadns.net
+dscq.akamai.net
+net.akadns.net
+www.akamaiedge.net
+www.akamaihd.net
+www.akamai.net
+www.akamaitechnologies.com
+www.akamaized.net
