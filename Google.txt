@@ -36,6 +36,7 @@ edgedl.me.gvt1.com
 firebase.google.com
 fonts.googleapis.com
 fonts.google.com
+fonts.gstatic.com
 ggpht.com
 gmail.com
 goo.gl
