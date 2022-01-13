@@ -34,7 +34,9 @@ apps.apple.com
 apt.izzysoft.de
 arcgis.com
 arcgisonline.com
+archiveofourown.org
 archive.org
+archiveteam.org
 archive.torproject.org
 arduino.cc
 ark.intel.com
@@ -175,6 +177,7 @@ etsy.com
 exodus-privacy.eu.org
 facebook.com
 fanboy.co.nz
+fanfiction.net
 faq.usps.com
 fast.com
 fast.fonts.net
@@ -196,6 +199,7 @@ firejail.wordpress.com
 ford.com
 forum.dlang.org
 forum.f-droid.org
+forums.anandtech.com
 forums.oneplus.com
 forum.xda-developers.com
 fosdem.org
@@ -332,6 +336,7 @@ login.vk.com
 lwn.net
 mail.gandi.net
 mail.ru
+main.px.t-online.de
 malwaredomainlist.com
 malwaredomains.com
 manual.limesurvey.org
@@ -355,8 +360,10 @@ mirror.scd31.com
 mirrors.dotsrc.org
 mirrors.nju.edu.cn
 mirrors.tuna.tsinghua.edu.cn
+mobile.spotify.com
 moongiant.com
 mouser.com
+m.spotify.com
 mumble.info
 m.vk.com
 mvps.org
@@ -390,6 +397,7 @@ oneplus.net
 onvanilla.net
 openbenchmarking.org
 opencollective.com
+openssl.org
 openstax.org
 openstreetmap.org
 opensubtitles.org
@@ -431,6 +439,7 @@ prosody.im
 protondb.com
 publicsuffix.org
 puri.sm
+px.t-online.de
 qq.com
 quicksy.im
 quora.com
@@ -500,6 +509,7 @@ static.kickstarter.com
 stickermule.com
 stopforumspam.com
 store-usa.arduino.cc
+stoutner.com
 stream.wikimedia.org
 stripcdn.com
 stripecdn.com
@@ -508,6 +518,7 @@ st.vk.com
 support.dell.com
 support.hp.com
 support.lenovo.com
+svc.main.px.t-online.de
 swbell.net
 symauth.com
 syncthing-docs.netlify.app
@@ -544,6 +555,7 @@ t-online.hu
 tools.usps.com
 torproject.org
 trac.torproject.org
+transformativeworks.org
 travis-ci.com
 trellocdn.com
 trello.com
@@ -596,10 +608,12 @@ webs.com
 weebly.com
 weeklyad.target.com
 wicg.github.io
+wiki.archiveteam.org
 wikimedia.org
 wikipedia.org
 windowsticker.forddirect.com
 winhelp2002.mvps.org
+win-raid.com
 wireshark.org
 wix.com
 wixsite.com
@@ -627,6 +641,7 @@ www.aol.com
 www.apple.com
 www.arcgis.com
 www.arcgisonline.com
+www.archiveofourown.org
 www.archive.org
 www.arduino.cc
 www.asciinema.org
@@ -709,6 +724,7 @@ www.esri.com
 www.etsy.com
 www.facebook.com
 www.fanboy.co.nz
+www.fanfiction.net
 www.fast.com
 www.f-droid.org
 www.feedly.com
@@ -810,6 +826,7 @@ www.oneplus.com
 www.oneplus.net
 www.openbenchmarking.org
 www.opencollective.com
+www.openssl.org
 www.openstax.org
 www.openstreetmap.org
 www.opensubtitles.org
@@ -880,6 +897,7 @@ www.staples.com
 www.startech.com
 www.stickermule.com
 www.stopforumspam.com
+www.stoutner.com
 www.stripe.com
 www.symauth.com
 www.syncthing.net
@@ -904,6 +922,7 @@ www.tomshardware.com
 www.t-online.de
 www.t-online.hu
 www.torproject.org
+www.transformativeworks.org
 www.trellocdn.com
 www.trello.com
 www.tumblr.com
@@ -939,6 +958,7 @@ www.wikimedia.org
 www.wikipedia.org
 www.windowsticker.forddirect.com
 www.winhelp2002.mvps.org
+www.win-raid.com
 www.wireshark.org
 www.wix.com
 www.wixsite.com
