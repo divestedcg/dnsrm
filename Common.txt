@@ -307,6 +307,7 @@ jockey.com
 jquery.com
 jsdelivr.net
 jtvnw.net
+kaggle.com
 keystone.mwbsys.com
 kickstarter.com
 kimsufi.com
@@ -581,6 +582,7 @@ valheimgame.com
 vanillicon.com
 vercel-dns.com
 verizon.com
+verizonwireless.com
 v.firebog.net
 v.firebox.net
 videolan.org
