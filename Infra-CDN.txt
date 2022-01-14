@@ -4,6 +4,8 @@ bootstrapcdn.com
 brightspotcdn.com
 cdn-apple.com
 cdn.jsdelivr.net
+cobrowse.oraclecloud.com
+cobrowse.oraclecloud.com.edgekey.net
 code.highcharts.com
 com.edgekey.net
 com.edgesuite.net
@@ -23,6 +25,8 @@ netdna-ssl.com
 net.edgekey.net
 net.edgesuite.net
 nyud.net
+oraclecloud.com
+oraclecloud.com.edgekey.net
 pressablecdn.com
 psicdn.net
 samsappsbn.vo.llnwd.net
