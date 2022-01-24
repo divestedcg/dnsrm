@@ -229,6 +229,7 @@ git.minetest.land
 git.silence.dev
 git.synz.io
 gitter.im
+gittigidiyor.com
 global.sitesafety.trendmicro.com
 gnc.com
 go.com
@@ -745,6 +746,7 @@ www.gigabyte.com
 www.github.com
 www.gitlab.io
 www.gitter.im
+www.gittigidiyor.com
 www.gnc.com
 www.go.com
 www.gog.com

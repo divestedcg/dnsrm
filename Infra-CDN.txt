@@ -4,6 +4,10 @@ bootstrapcdn.com
 brightspotcdn.com
 cdn-apple.com
 cdn.jsdelivr.net
+cdn-us-ec-0.yottaa.net
+cdn-us-ec-1.yottaa.net
+cdn-us-ec.yottaa.net
+cdn-vzn.yottaa.net
 cobrowse.oraclecloud.com
 cobrowse.oraclecloud.com.edgekey.net
 code.highcharts.com
@@ -33,6 +37,7 @@ samsappsbn.vo.llnwd.net
 systemcdn.net
 upsiloncdn.net
 v-cdn.net
+wac.edgecastcdn.net
 www.alicdn.com
 www.b-cdn.net
 www.bootstrapcdn.com
@@ -55,3 +60,4 @@ www.psicdn.net
 www.systemcdn.net
 www.upsiloncdn.net
 www.v-cdn.net
+yottaa.net
