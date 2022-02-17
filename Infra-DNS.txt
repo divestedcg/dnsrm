@@ -34,6 +34,10 @@ securedns.eu
 security-filter-dns.cleanbrowsing.org
 servers.opennicproject.org
 unicast.censurfridns.dk
+whois.gandi.net
+whois.nic.us
+whois.pir.org
+whois.verisign-grs.com
 www.appliedprivacy.net
 www.censurfridns.dk
 www.dnsprivacy.at

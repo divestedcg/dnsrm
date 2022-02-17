@@ -4,6 +4,7 @@ bootstrapcdn.com
 brightspotcdn.com
 cdn-apple.com
 cdn.jsdelivr.net
+cdn.statically.io
 cdn-us-ec-0.yottaa.net
 cdn-us-ec-1.yottaa.net
 cdn-us-ec.yottaa.net
@@ -18,7 +19,9 @@ edgecastcdn.net
 edgekey.net
 edgesuite.net
 epsiloncdn.net
+gitcdn.xyz
 hwcdn.net
+jsdelivr.net
 keycdn.com
 kxcdn.com
 llnwd.net
@@ -34,6 +37,7 @@ oraclecloud.com.edgekey.net
 pressablecdn.com
 psicdn.net
 samsappsbn.vo.llnwd.net
+statically.io
 systemcdn.net
 upsiloncdn.net
 v-cdn.net

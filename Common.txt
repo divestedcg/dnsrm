@@ -221,6 +221,7 @@ gist.github.com
 githubassets.com
 github.com
 github.githubassets.com
+githubusercontent.com
 gitlab.com
 gitlab.io
 gitlab-static.net

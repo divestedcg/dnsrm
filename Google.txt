@@ -29,6 +29,7 @@ cs.android.com
 developer.android.com
 developers.google.com
 device-provisioning.googleapis.com
+dns-admin.google.com
 docs.google.com
 domain-registry-whois.l.google.com
 drive.google.com
@@ -53,6 +54,7 @@ gstatic.com
 gstatic.net
 gvt1.com
 images.app.goo.gl
+l.google.com
 mail.google.com
 manifest.googlevideo.com
 maps.googleapis.com
@@ -77,6 +79,7 @@ streetviewpixels-pa.googleapis.com
 supl.google.com
 translate.google.com
 update.googleapis.com
+versionhistory.googleapis.com
 webcache.googleusercontent.com
 www.ampproject.org
 www.android.com
