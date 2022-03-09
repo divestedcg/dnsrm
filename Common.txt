@@ -123,6 +123,7 @@ customer.teliacarrier.com
 cyan4973.github.io
 cyberpunk.net
 de1.api.radio-browser.info
+dealer.com
 dedoimedo.com
 dellcdn.com
 dell.com
@@ -426,6 +427,7 @@ performancepowdercoating.com
 pe.usps.com
 pgl.yoyo.org
 phishing.army
+phonearena.com
 phoronix.com
 phoronix.net
 php.net
