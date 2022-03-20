@@ -89,6 +89,7 @@ cdn.embed.ly
 cdn.embedly.com
 cdn.ravenjs.com
 cdn.shopify.com
+cdn.spotify.com
 cfl.res.rr.com
 charter.com
 cheatengine.org
@@ -298,6 +299,7 @@ is3-ssl.mzstatic.com
 is4-ssl.mzstatic.com
 is5-ssl.mzstatic.com
 is6-ssl.mzstatic.com
+issuetracker.unity3d.com
 itsfoss.com
 itunes.apple.com
 izzysoft.de
