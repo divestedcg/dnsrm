@@ -5,7 +5,11 @@ akamai.net
 akamaitechnologies.com
 akamaized.net
 com.akadns.net
+dscg.akamaiedge.net
+dscg.akamai.net
 dscq.akamai.net
+g.akamaiedge.net
+g.akamai.net
 net.akadns.net
 www.akamaiedge.net
 www.akamaihd.net
