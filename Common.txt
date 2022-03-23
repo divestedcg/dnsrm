@@ -26,6 +26,7 @@ anandtech.com
 androidfilehost.com
 android.stackexchange.com
 aol.com
+api.binance.com
 api.openweathermap.org
 api.radio-browser.info
 apple.com
@@ -57,6 +58,7 @@ bbystatic.com
 bestbuy.com
 bethesda.net
 bigpond.net.au
+binance.com
 bitbucket.org
 bit.ly
 blockcypher.com
