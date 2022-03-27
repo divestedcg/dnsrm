@@ -8,6 +8,7 @@ com.akadns.net
 dscg.akamaiedge.net
 dscg.akamai.net
 dscq.akamai.net
+dscx.akamaiedge.net
 g.akamaiedge.net
 g.akamai.net
 net.akadns.net

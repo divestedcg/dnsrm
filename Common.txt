@@ -282,6 +282,7 @@ ice6.somafm.com
 id.gandi.net
 ifixit.com
 i.imgur.com
+images.dealer.com
 imap.gandi.net
 imdb.com
 imgix.net
@@ -436,6 +437,7 @@ phonearena.com
 phoronix.com
 phoronix.net
 php.net
+pictures.dealer.com
 piwik.org
 pkgs.org
 play.spotify.com
@@ -514,6 +516,7 @@ staples-3p.com
 staples.com
 staples-static.com
 startech.com
+static.dealer.com
 staticip.rima-tde.net
 static.kickstarter.com
 stickermule.com
