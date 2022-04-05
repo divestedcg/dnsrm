@@ -1,3 +1,5 @@
+#License: CC0
+
 0.cloudflare-dns.com
 1.0.0.1.cloudflare-dns.com
 1001.cloudflare-dns.com

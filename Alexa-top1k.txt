@@ -1,3 +1,7 @@
+#License: Unknown
+#Source: https://s3.amazonaws.com/alexa-static/top-1m.csv.zip
+#Note: Rank information is stripped and many entries removed
+
 104.com.tw
 10jqka.com.cn
 11st.co.kr

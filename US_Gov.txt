@@ -1,3 +1,6 @@
+#License: Public Domain
+#Source: https://github.com/cisagov/dotgov-data
+
 18f.gov
 18f.gsa.gov
 2020census.gov

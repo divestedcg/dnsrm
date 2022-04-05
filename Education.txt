@@ -1,3 +1,5 @@
+#License: CC0
+
 aaas.as.uky.edu
 abell.as.arizona.edu
 acis-06.as.cmu.edu

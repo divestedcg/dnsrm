@@ -1,3 +1,5 @@
+#License: CC0
+
 alicdn.com
 b-cdn.net
 bootstrapcdn.com

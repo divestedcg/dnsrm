@@ -1,3 +1,7 @@
+#License: CC0
+#Source: https://github.com/ScottHelme/revocation-endpoints
+#Note: many typos were fixed and invalid entries removed
+
 1.ca.tian.science
 2048crl.lawtrust.co.za
 2.ca.tian.science

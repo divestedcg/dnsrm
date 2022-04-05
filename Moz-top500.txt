@@ -1,3 +1,7 @@
+#License: Unknown
+#Source: https://moz.com/top500
+#Note: Rank information is stripped and many entries removed
+
 123rf.com
 20minutos.es
 4shared.com

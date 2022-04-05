@@ -1,3 +1,5 @@
+#License: CC0
+
 calyxos.org
 community.e.foundation
 download.lineageos.org
