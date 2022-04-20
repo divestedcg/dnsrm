@@ -37,6 +37,7 @@ apps.apple.com
 apt.izzysoft.de
 arcgis.com
 arcgisonline.com
+archive.csad.ox.ac.uk
 archiveofourown.org
 archive.org
 archiveteam.org
@@ -77,6 +78,7 @@ bubu1.eu
 buildbot.openwrt.org
 bwbx.io
 cableonline.com.mx
+cairo.csad.ox.ac.uk
 californiatimes.com
 calyxinstitute.org
 camo.githubusercontent.com
@@ -122,8 +124,10 @@ cr.org
 crunchbase.com
 cr.yp.to
 crypto.stackexchange.com
+csad.ox.ac.uk
 curben.gitlab.io
 curseforge.com
+curses.csad.ox.ac.uk
 customer.teliacarrier.com
 cyan4973.github.io
 cyberpunk.net
@@ -243,6 +247,7 @@ go.com
 gog.com
 gog-statics.com
 goodreads.com
+gpbc.csad.ox.ac.uk
 gr-assets.com
 gravatar.com
 gsmarena.com
@@ -294,6 +299,7 @@ inap.com
 instagram.com
 intel.com
 invidio.us
+ipap.csad.ox.ac.uk
 ipdeny.com
 iplists.firehol.org
 ipv6.he.net
@@ -351,6 +357,7 @@ mail.ru
 main.px.t-online.de
 malwaredomainlist.com
 malwaredomains.com
+mama.csad.ox.ac.uk
 manual.limesurvey.org
 mapillary.com
 mastodon.technology
@@ -444,6 +451,7 @@ piwik.org
 pkgs.org
 play.spotify.com
 play.spotify.edgekey.net
+poinikastas.csad.ox.ac.uk
 pornhub.com
 postalpro.usps.com
 postcalc.usps.com
@@ -602,6 +610,7 @@ v.firebox.net
 videolan.org
 vimeocdn.com
 vimeo.com
+vindolanda.csad.ox.ac.uk
 virtualbox.org
 virtualearth.net
 virustotal.com
@@ -706,6 +715,7 @@ www.conversations.im
 www.cpu-world.com
 www.crunchbase.com
 www.cr.yp.to
+www.csad.ox.ac.uk
 www.curseforge.com
 www.cyberpunk.net
 www.dedoimedo.com

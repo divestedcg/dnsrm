@@ -1,0 +1,11 @@
+#License: CC0
+
+businesstoolbox.stats.govt.nz
+careers.stats.govt.nz
+m.stats.govt.nz
+nzdotstat.stats.govt.nz
+search.stats.govt.nz
+stats.govt.nz
+www2.stats.govt.nz
+www3.stats.govt.nz
+www.stats.govt.nz
