@@ -153,6 +153,7 @@ dl.dropboxusercontent.com
 dns.army
 docs.halium.org
 docs.oracle.com
+docs.qualcomm.com
 docs.redis.com
 docs.syncthing.net
 dongleauth.info

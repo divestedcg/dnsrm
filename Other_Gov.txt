@@ -2,6 +2,7 @@
 
 businesstoolbox.stats.govt.nz
 careers.stats.govt.nz
+gov.bd
 m.stats.govt.nz
 nzdotstat.stats.govt.nz
 search.stats.govt.nz
