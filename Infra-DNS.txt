@@ -26,6 +26,7 @@ dot.securedns.eu
 duckdns.org
 getdnsapi.net
 kaitain.restena.lu
+markmonitor.com
 nic.cz
 odvr.nic.cz
 opennic.org
@@ -37,6 +38,7 @@ security-filter-dns.cleanbrowsing.org
 servers.opennicproject.org
 unicast.censurfridns.dk
 whois.gandi.net
+whois.markmonitor.com
 whois.nic.us
 whois.pir.org
 whois.verisign-grs.com

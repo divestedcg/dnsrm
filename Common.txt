@@ -336,6 +336,7 @@ l3af.io
 lab.louiz.org
 lanik.us
 latimes.com
+lbry.com
 lenovo.com
 level1techs.com
 level3.net
@@ -406,6 +407,9 @@ nitrokey.com
 nl1.api.radio-browser.info
 nyt.com
 nytimes.com
+odycdn.com
+odysee.com
+odysee.tv
 officedepot.com
 oisd.nl
 old.reddit.com

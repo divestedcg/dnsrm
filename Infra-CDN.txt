@@ -7,6 +7,8 @@ brightspotcdn.com
 cdn-apple.com
 cdn.jsdelivr.net
 cdn.statically.io
+stackpathdns.com
+stackpathcdn.com
 cdn-us-ec-0.yottaa.net
 cdn-us-ec-1.yottaa.net
 cdn-us-ec.yottaa.net
