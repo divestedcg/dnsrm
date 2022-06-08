@@ -1,0 +1,13 @@
+#License: CC0
+
+developers.issuu.com
+feed.issuu.com
+help.issuu.com
+image.issuu.com
+issuu.com
+platform.issuu.com
+request.issuu.com
+services.issuu.com
+sidebar.issuu.com
+static.issuu.com
+www.issuu.com
