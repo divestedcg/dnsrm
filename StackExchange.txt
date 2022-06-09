@@ -1,0 +1,20 @@
+#License: CC0
+
+askubuntu.com
+blogoverflow.com
+mathoverflow.net
+meta.stackexchange.com
+serverfault.com
+sstatic.net
+stackapps.com
+stackauth.com
+stackexchange.com
+stackmod.blog
+stackoverflow.blog
+stackoverflowbusiness.com
+stackoverflow.com
+stacksnippets.net
+stats.stackexchange.com
+superuser.com
+tex-talk.net
+thesffblog.com
