@@ -1,0 +1,12 @@
+#License: CC0
+
+api.tradera.com
+butiker.tradera.com
+gamla.tradera.com
+info.tradera.com
+mega.tradera.com
+nyheter.tradera.com
+oldimages.tradera.com
+tradera.com
+widget.tradera.com
+www.tradera.com
