@@ -207,6 +207,7 @@ files.wordpress.com
 firebog.net
 firehol.org
 firejail.wordpress.com
+flarum.org
 ford.com
 forum.dlang.org
 forum.f-droid.org
