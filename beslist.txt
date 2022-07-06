@@ -1,0 +1,21 @@
+#License: CC0
+
+beslist.be
+beslist.com
+beslist.co.uk
+beslist.de
+beslist.eu
+beslist.info
+beslist.net
+beslist.nl
+beslist.nu
+beslist.tv
+dns1.beslist.nl
+pers.beslist.nl
+www.beslist.be
+www.beslist.ml
+www.beslist.nl
+www.beslist.nu
+www.beslist.org
+www.beslist.pro
+www.beslist.tv
