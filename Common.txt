@@ -458,6 +458,7 @@ pkgs.org
 play.spotify.com
 play.spotify.edgekey.net
 poinikastas.csad.ox.ac.uk
+pool.telekom.hu
 pornhub.com
 postalpro.usps.com
 postcalc.usps.com
@@ -611,6 +612,7 @@ valheimgame.com
 vanillicon.com
 vercel-dns.com
 verizon.com
+verizonmedia.com
 verizonwireless.com
 v.firebog.net
 v.firebox.net
@@ -638,6 +640,7 @@ webmail.gandi.net
 webpagetest.org
 webs.com
 weebly.com
+weeblysite.com
 weeklyad.target.com
 wicg.github.io
 wiki.archiveteam.org

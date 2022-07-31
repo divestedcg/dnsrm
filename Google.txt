@@ -36,7 +36,9 @@ docs.google.com
 domain-registry-whois.l.google.com
 drive.google.com
 edgedl.me.gvt1.com
+firebaseapp.com
 firebase.google.com
+firebaseio.com
 fonts.googleapis.com
 fonts.google.com
 fonts.gstatic.com
