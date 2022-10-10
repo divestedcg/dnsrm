@@ -1,0 +1,15 @@
+bittorrent.com
+dht.aelitis.com
+dht.transmissionbt.com
+router.bitcomet.com
+router.bittorrent.com
+router.utorrent.com
+transmissionbt.com
+utorrent.com
+portcheck.transmissionbt.com
+exodus.desync.com
+desync.com
+tracker.leechers-paradise.org
+leechers-paradise.org
+atlitis.com
+bitcomet.com
