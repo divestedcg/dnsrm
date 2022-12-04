@@ -179,6 +179,7 @@ dst.internet
 dst.mms
 dtac.co.th
 du.ae
+e4.ue.mstore.msg.t-mobile.com
 e911.mobilefrdm.ca
 ebouygtel.com
 econet.net
@@ -1076,6 +1077,8 @@ movistar.ve
 mp.mobiel.kpn
 mpr2.bizho.net
 msg.eng.t-mobile.com
+msg.t-mobile.com
+mstore.msg.t-mobile.com
 mtel.ba
 mtn.ci
 mtn.com.cy
@@ -1319,6 +1322,7 @@ tubiedronka.pl
 tuenti.com
 turkcell.com.tr
 tusmobil.si
+ue.mstore.msg.t-mobile.com
 ufone.com
 ufone.mms
 ufone.pinternet
