@@ -2,6 +2,7 @@
 
 acceleratedmobilepageurl.googleapis.com
 accounts.google.com
+agnss.goog
 ajax.googleapis.com
 ampproject.org
 android.clients.google.com

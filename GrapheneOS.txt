@@ -3,11 +3,13 @@
 apps.grapheneos.org
 attestation.app
 attestation.grapheneos.org
+broadcom.psds.grapheneos.org
 connectivitycheck.grapheneos.network
 connectivitycheck.grapheneos.online
 connectivitycheck.grapheneos.org
 connectivity.grapheneos.org
 element.grapheneos.org
+google.psds.grapheneos.org
 grapheneos.app
 grapheneos.ca
 grapheneos.com

@@ -106,6 +106,8 @@ clamav.net
 clienttest.ssllabs.com
 cmrg.net
 cnn.com
+codeberg.org
+codeberg.page
 code.briarproject.org
 coinbase.com
 comcast.net
