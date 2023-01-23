@@ -39,6 +39,7 @@ mta-sts.vanadium.app
 ns1.grapheneos.org
 ns2.grapheneos.org
 releases.grapheneos.org
+remoteprovisioning.grapheneos.org
 seamlessupdate.app
 staging.attestation.app
 staging.grapheneos.org

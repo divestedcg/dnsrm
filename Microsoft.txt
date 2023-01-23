@@ -42,6 +42,7 @@ docs.microsoft.com
 download.microsoft.com
 download.windowsupdate.com
 ds.download.windowsupdate.com
+edge-http.microsoft.com
 emdl.ws.microsoft.com
 fe2.update.microsoft.com
 fe2.update.microsoft.com.akadns.net

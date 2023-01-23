@@ -74,6 +74,7 @@ play.googleapis.com
 play.google.com
 redirector.googlevideo.com
 redirector.gvt1.com
+remoteprovisioning.googleapis.com
 safebrowsing.googleapis.com
 safebrowsing.google.com
 source.android.com

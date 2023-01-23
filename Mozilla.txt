@@ -6,6 +6,7 @@ aus5.mozilla.org
 blocked.cdn.mozilla.net
 blog.mozilla.org
 bugzilla.mozilla.org
+cdn.mozilla.net
 code.cdn.mozilla.net
 content-signature-2.cdn.mozilla.net
 detectportal.firefox.com
@@ -20,6 +21,7 @@ mitmdetection.services.mozilla.com
 monitor.firefox.com
 mozgcp.net
 mozilla.com
+mozilla.net
 mozilla.org
 onecrl.content-signature.mozilla.org
 push.services.mozilla.com
@@ -27,9 +29,11 @@ remote-settings.content-signature.mozilla.org
 searchfox.org
 services.addons.mozilla.org
 services.mozilla.com
+settings.services.mozilla.com
 shavar.services.mozilla.com
 support.mozilla.org
 token.services.mozilla.com
+tracking-protection.cdn.mozilla.net
 versioncheck.addons.mozilla.org
 versioncheck-bg.addons.mozilla.org
 webextensions.settings.services.mozilla.com

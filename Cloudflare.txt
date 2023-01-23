@@ -33,6 +33,7 @@ com.cdn.cloudflare.net
 commozilla.cloudflare-dns.com
 community.cloudflare.com
 connectmozilla.cloudflare-dns.com
+cp.cloudflare.com
 dot1dot1do1.cloudflare-dns.com
 dot1dot1dot1.cloudflare-dns.com
 eu.cdn.cloudflare.net

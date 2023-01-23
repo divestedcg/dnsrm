@@ -117,6 +117,7 @@ community.teamviewer.com
 community.toradex.com
 com.np
 compliance.conversations.im
+connectivitycheck.platform.hicloud.com
 consumerreports.org
 contact.ebay.com
 contentful.com
