@@ -1088,6 +1088,9 @@ us-gov-west-3.elb.amazonaws.com
 us-west-1.compute.amazonaws.com
 us-west-2.compute.amazonaws.com
 us-west-3.compute.amazonaws.com
+us-west-1.elb.amazonaws.com
+us-west-2.elb.amazonaws.com
+us-west-3.elb.amazonaws.com
 wiki-prod-1394614349.us-west-2.elb.amazonaws.com
 www.a2z.com
 www.amazonaws.com

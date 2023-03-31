@@ -17,6 +17,7 @@ algolia.net
 algolianet.com
 alibaba.com
 alicdn.com
+aliyuncs.com
 aliexpress.com
 all.api.radio-browser.info
 alpine-usa.com
@@ -1040,3 +1041,4 @@ zillowapi.com
 zillow.com
 zillow.net
 zillowstatic.com
+bitbucket.io
