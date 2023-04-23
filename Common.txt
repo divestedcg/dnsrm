@@ -17,8 +17,8 @@ algolia.net
 algolianet.com
 alibaba.com
 alicdn.com
-aliyuncs.com
 aliexpress.com
+aliyuncs.com
 all.api.radio-browser.info
 alpine-usa.com
 amazon.com
@@ -63,6 +63,7 @@ bestbuy.com
 bethesda.net
 bigpond.net.au
 binance.com
+bitbucket.io
 bitbucket.org
 bit.ly
 blockcypher.com
@@ -77,6 +78,7 @@ bromite.org
 b.stripecdn.com
 bubu1.eu
 buildbot.openwrt.org
+buy.stripe.com
 bwbx.io
 cableonline.com.mx
 cairo.csad.ox.ac.uk
@@ -165,6 +167,7 @@ downdetector.com
 download.limesurvey.org
 drmp.com
 dropbox.com
+dropboxusercontent.com
 dshield.org
 dslreports.com
 dslr.net
@@ -329,6 +332,7 @@ jmp.chat
 jockey.com
 jquery.com
 jsdelivr.net
+js.stripe.com
 jtvnw.net
 kaggle.com
 keystone.mwbsys.com
@@ -503,6 +507,7 @@ rr.com
 sbcglobal.net
 scene7.com
 seal.globalsign.com
+search.jabber.network
 secure.gravatar.com
 secureir.ebaystatic.com
 secureserver.net
@@ -1041,5 +1046,3 @@ zillowapi.com
 zillow.com
 zillow.net
 zillowstatic.com
-bitbucket.io
-search.jabber.network
