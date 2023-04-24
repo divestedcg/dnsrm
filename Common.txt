@@ -240,6 +240,7 @@ gist.github.com
 githubassets.com
 github.com
 github.githubassets.com
+github.io
 githubusercontent.com
 gitlab.com
 gitlab.io
@@ -533,6 +534,7 @@ spclient.wg.spotify.com
 spectrum.net
 spotify.com
 sprint.com
+srht.site
 sslbl.abuse.ch
 ssl-images-amazon.com
 ssllabs.com
@@ -1039,6 +1041,8 @@ yandex.ru
 ycombinator.com
 yelpcdn.com
 yelp.com
+yimg.com
+yimg.com.edgesuite.net
 yoyo.org
 zdnet.com
 zendesk.com

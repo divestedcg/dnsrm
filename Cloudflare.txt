@@ -58,6 +58,7 @@ one.one.cloudflare-dns.com
 one.one.one.cloudflare-dns.com
 one.one.one.one.cloudflare-dns.com
 opera.cloudflare-dns.com
+org.cdn.cloudflare.net
 ozilla.cloudflare-dns.com
 proxy-ny.odoh.cloudflare-dns.com
 proxy.odoh.cloudflare-dns.com
