@@ -406,6 +406,7 @@ mzstatic.com
 nabble.com
 netflix.com
 netlify.com
+netnod.se
 newegg.com
 neweggimages.com
 news.itsfoss.com
@@ -475,6 +476,7 @@ preev.com
 privacyguides.org
 prosody.im
 protondb.com
+ptb.de
 publicsuffix.org
 puri.sm
 px.t-online.de
@@ -544,6 +546,7 @@ staples-3p.com
 staples.com
 staples-static.com
 startech.com
+startpage.com
 static.dealer.com
 staticip.rima-tde.net
 static.kickstarter.com
@@ -567,6 +570,7 @@ syncthing-docs.netlify.app
 syncthing.net
 synz.io
 sysctl.org
+system76.com
 target.com
 targetimg1.com
 t.co
