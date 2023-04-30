@@ -162,6 +162,7 @@ docs.oracle.com
 docs.qualcomm.com
 docs.redis.com
 docs.syncthing.net
+donate.stripe.com
 dongleauth.info
 downdetector.com
 download.limesurvey.org
@@ -451,6 +452,7 @@ passmark.com
 pastebin.com
 pay.ebay.com
 paypalobjects.com
+pay.stripe.com
 pcgamingwiki.com
 pcpartpicker.com
 pcsupport.lenovo.com

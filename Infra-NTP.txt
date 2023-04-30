@@ -7,6 +7,7 @@
 3.android.pool.ntp.org
 3.fedora.pool.ntp.org
 asia.pool.ntp.org
+brazil.time.system76.com
 europe.pool.ntp.org
 izatcloud.net
 north-america.pool.ntp.org
@@ -20,6 +21,7 @@ ntppool2.time.nl
 nts.netnod.se
 ohio.time.system76.com
 oregon.time.system76.com
+paris.time.system76.com
 pool.ntp.org
 ptbtime1.ptb.de
 ptbtime2.ptb.de
