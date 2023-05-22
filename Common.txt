@@ -1056,3 +1056,7 @@ zillowapi.com
 zillow.com
 zillow.net
 zillowstatic.com
+brand.assets.adidas.com
+assets.adidas.com
+adidas.com
+www.adidas.com
