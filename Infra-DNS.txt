@@ -23,7 +23,6 @@ doh.securedns.eu
 dot1.applied-privacy.net
 dot1.appliedprivacy.net
 dot.securedns.eu
-duckdns.org
 getdnsapi.net
 kaitain.restena.lu
 markmonitor.com
@@ -47,7 +46,6 @@ www.censurfridns.dk
 www.dnsprivacy.at
 www.dnsprivacy.org
 www.dns.watch
-www.duckdns.org
 www.getdnsapi.net
 www.nic.cz
 www.opennic.org

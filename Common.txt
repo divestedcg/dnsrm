@@ -156,7 +156,6 @@ distrowatch.com
 dlang.org
 dl.dropbox.com
 dl.dropboxusercontent.com
-dns.army
 docs.halium.org
 docs.oracle.com
 docs.qualcomm.com
