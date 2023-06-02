@@ -1,11 +1,16 @@
 #License: CC0
 
 101.101.101.101
+adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 anycast.censurfridns.dk
 anycast.me
 appliedprivacy.net
+canadianshield.cira.ca
 censurfridns.dk
+cleanbrowsing.org
+controld.com
+dns0.eu
 dns10.quad9.net
 dns11.quad9.net
 dns.adguard.com
@@ -23,6 +28,7 @@ doh.securedns.eu
 dot1.applied-privacy.net
 dot1.appliedprivacy.net
 dot.securedns.eu
+freedns.controld.com
 getdnsapi.net
 kaitain.restena.lu
 markmonitor.com
@@ -30,6 +36,7 @@ nic.cz
 odvr.nic.cz
 opennic.org
 opennicproject.org
+p2.freedns.controld.com
 protected.canadianshield.cira.ca
 quad9.net
 securedns.eu
@@ -53,3 +60,4 @@ www.opennicproject.org
 www.quad9.net
 www.securedns.eu
 yahoodns.net
+zero.dns0.eu

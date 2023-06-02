@@ -9,6 +9,7 @@ adata.com
 adaway.org
 adblockplus.org
 adguard.com
+adidas.com
 adobe.com
 adsl.tie.cl
 aexp-static.com
@@ -47,6 +48,7 @@ arduino.cc
 ark.intel.com
 asciinema.org
 ashleyfurniturehomestore.com
+assets.adidas.com
 asus.com
 att.com
 autogeek.net
@@ -71,6 +73,7 @@ blog.torproject.org
 bloomberg.com
 bootlin.com
 bountysource.com
+brand.assets.adidas.com
 briarproject.org
 brightcove.com
 broadband.hu
@@ -676,6 +679,7 @@ www.adata.com
 www.adaway.org
 www.adblockplus.org
 www.adguard.com
+www.adidas.com
 www.adobe.com
 www.algolia.com
 www.algolia.net
@@ -1055,7 +1059,3 @@ zillowapi.com
 zillow.com
 zillow.net
 zillowstatic.com
-brand.assets.adidas.com
-assets.adidas.com
-adidas.com
-www.adidas.com
