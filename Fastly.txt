@@ -16,7 +16,15 @@ osff2.map.fastly.net
 osff.map.fastly.net
 p2.shared.global.fastly.net
 reddit.map.fastly.net
+s1-cloudinary-pin.map.fastly.net
 s2-cloudinary-pin.map.fastly.net
+s3-cloudinary-pin.map.fastly.net
+s4-cloudinary-pin.map.fastly.net
+s5-cloudinary-pin.map.fastly.net
+s6-cloudinary-pin.map.fastly.net
+s7-cloudinary-pin.map.fastly.net
+s8-cloudinary-pin.map.fastly.net
+s9-cloudinary-pin.map.fastly.net
 shared.global.fastly.net
 siren-production.freetls.fastly.net
 ssl.fastly.net

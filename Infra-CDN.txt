@@ -11,6 +11,9 @@ cdn-us-ec-0.yottaa.net
 cdn-us-ec-1.yottaa.net
 cdn-us-ec.yottaa.net
 cdn-vzn.yottaa.net
+cdx.cedexis.net
+cedexis.net
+cloudinary.com
 cobrowse.oraclecloud.com
 cobrowse.oraclecloud.com.edgekey.net
 code.highcharts.com
@@ -29,6 +32,7 @@ kxcdn.com
 llnwd.net
 llnw.net
 maxcdn.bootstrapcdn.com
+multicdn.cloudinary.com
 myqcloud.com
 netdna-ssl.com
 net.edgekey.net
