@@ -5,6 +5,7 @@ adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 anycast.censurfridns.dk
 anycast.me
+anycast.uncensoreddns.org
 appliedprivacy.net
 canadianshield.cira.ca
 censurfridns.dk
@@ -23,6 +24,7 @@ dnsprivacy.org
 dns.quad9.net
 dns.switch.ch
 dns.watch
+doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.securedns.eu
 dot1.applied-privacy.net
@@ -43,6 +45,7 @@ securedns.eu
 security-filter-dns.cleanbrowsing.org
 servers.opennicproject.org
 unicast.censurfridns.dk
+unicast.uncensoreddns.org
 whois.gandi.net
 whois.markmonitor.com
 whois.nic.us
