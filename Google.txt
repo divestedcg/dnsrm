@@ -7,6 +7,7 @@ ajax.googleapis.com
 ampproject.org
 android.clients.google.com
 android.com
+android.googleapis.com
 android.googlesource.com
 android-review.googlesource.com
 appspot.com
@@ -24,6 +25,7 @@ clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
+clients.google.com
 connectivitycheck.android.com
 connectivitycheck.google.com
 connectivitycheck.gstatic.com
@@ -43,6 +45,7 @@ firebaseio.com
 fonts.googleapis.com
 fonts.google.com
 fonts.gstatic.com
+gcm.googleapis.com
 ggpht.com
 gmail.com
 goo.gl
@@ -69,6 +72,7 @@ me.gvt1.com
 monorail-prod-default-v011-dot-monorail-prod.appspot.com
 monorail-prod-default-v049-dot-monorail-prod.appspot.com
 monorail-prod-default-v129-dot-monorail-prod.appspot.com
+mtalk.google.com
 omahaproxy.appspot.com
 play.googleapis.com
 play.google.com
@@ -77,6 +81,7 @@ redirector.gvt1.com
 remoteprovisioning.googleapis.com
 safebrowsing.googleapis.com
 safebrowsing.google.com
+securetoken.googleapis.com
 source.android.com
 source.chromium.org
 storage.googleapis.com
