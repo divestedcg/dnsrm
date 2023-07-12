@@ -63,6 +63,7 @@ bbc.com
 bbystatic.com
 bestbuy.com
 bethesda.net
+bigota.d.miui.com
 bigpond.net.au
 binance.com
 bitbucket.io
@@ -159,6 +160,7 @@ distrowatch.com
 dlang.org
 dl.dropbox.com
 dl.dropboxusercontent.com
+d.miui.com
 docs.halium.org
 docs.oracle.com
 docs.qualcomm.com
@@ -394,6 +396,7 @@ mirror.scd31.com
 mirrors.dotsrc.org
 mirrors.nju.edu.cn
 mirrors.tuna.tsinghua.edu.cn
+miui.com
 mobile.spotify.com
 moongiant.com
 mouser.com
