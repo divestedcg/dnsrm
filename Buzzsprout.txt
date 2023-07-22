@@ -3,6 +3,7 @@
 5mtko.buzzsprout.com
 a4mc.buzzsprout.com
 alabamabigfootsociety.buzzsprout.com
+assets.buzzsprout.com
 backslashabout.buzzsprout.com
 bodylearning.buzzsprout.com
 buzzsprout.com
@@ -10,6 +11,7 @@ collegeofprayer.buzzsprout.com
 columbuscrew.buzzsprout.com
 emburyumc.buzzsprout.com
 extratimeradio.buzzsprout.com
+feeds.buzzsprout.com
 flailingdad.buzzsprout.com
 future.endeavors.buzzsprout.com
 generalgeekerycast.buzzsprout.com
@@ -27,6 +29,7 @@ plasticsurgery.buzzsprout.com
 prophetdaniel.buzzsprout.com
 pyromaniac.buzzsprout.com
 sportsroundtable.buzzsprout.com
+storage.buzzsprout.com
 thegreendivas.buzzsprout.com
 thejamshow.buzzsprout.com
 theoakschurch.buzzsprout.com
