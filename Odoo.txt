@@ -1,0 +1,8 @@
+#License: CC0
+
+doc.odoo.com
+migration.odoo.com
+nightly.odoo.com
+pad.odoo.com
+www.odoo.com
+odoo.com
