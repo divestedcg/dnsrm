@@ -31,6 +31,7 @@ androidfilehost.com
 android.stackexchange.com
 aol.com
 api.binance.com
+api.ente.io
 api.openweathermap.org
 api.radio-browser.info
 apple.com
@@ -192,6 +193,7 @@ elektrilevi.ee
 embed.ly
 embedly.com
 energia.ee
+ente.io
 en.wikipedia.org
 en.wiktionary.org
 equifax.com
@@ -334,6 +336,7 @@ jabber.network
 jami.net
 jenkins.io
 jetbrains.com
+jio.com
 jmp.chat
 jockey.com
 jquery.com
@@ -836,6 +839,7 @@ www.jabber.network
 www.jami.net
 www.jenkins.io
 www.jetbrains.com
+www.jio.com
 www.jmp.chat
 www.jockey.com
 www.jquery.com
@@ -1062,5 +1066,3 @@ zillowapi.com
 zillow.com
 zillow.net
 zillowstatic.com
-jio.com
-www.jio.com
