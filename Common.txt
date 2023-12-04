@@ -1066,3 +1066,6 @@ zillowapi.com
 zillow.com
 zillow.net
 zillowstatic.com
+logs.xmpp.org
+xmpp.org
+lemmy.ml
