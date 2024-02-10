@@ -1069,3 +1069,6 @@ zillowstatic.com
 logs.xmpp.org
 xmpp.org
 lemmy.ml
+dino.im
+www.auphonic.com
+auphonic.com
