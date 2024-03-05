@@ -1,5 +1,6 @@
 #License: CC0
 
+3coresec.net
 aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com
 abcnews.go.com
 about.usps.com
@@ -31,6 +32,7 @@ androidfilehost.com
 android.stackexchange.com
 aol.com
 api.binance.com
+api.cybercure.ai
 api.ente.io
 api.openweathermap.org
 api.radio-browser.info
@@ -52,6 +54,7 @@ ashleyfurniturehomestore.com
 assets.adidas.com
 asus.com
 att.com
+auphonic.com
 autogeek.net
 autozone.com
 avatars.githubusercontent.com
@@ -70,6 +73,8 @@ binance.com
 bitbucket.io
 bitbucket.org
 bit.ly
+blackhole.monster
+blacklist.3coresec.net
 blockcypher.com
 blog.torproject.org
 bloomberg.com
@@ -109,6 +114,7 @@ charter.com
 cheatengine.org
 checkout.stripe.com
 christitus.com
+cinsscore.com
 ciscobinary.openh264.org
 clamav.net
 clienttest.ssllabs.com
@@ -141,6 +147,7 @@ curseforge.com
 curses.csad.ox.ac.uk
 customer.teliacarrier.com
 cyan4973.github.io
+cybercure.ai
 cyberpunk.net
 de1.api.radio-browser.info
 dealer.com
@@ -153,6 +160,7 @@ dev.gajim.org
 dev.virtualearth.net
 diasp.org
 digitalocean.com
+dino.im
 discordapp.com
 discourse-cdn.com
 discourse.org
@@ -317,8 +325,10 @@ instagram.com
 intel.com
 invidio.us
 ipap.csad.ox.ac.uk
+ip.blackhole.monster
 ipdeny.com
 iplists.firehol.org
+ipthreat.net
 ipv6.he.net
 ipv6-test.com
 i.reddit.com
@@ -355,6 +365,7 @@ lab.louiz.org
 lanik.us
 latimes.com
 lbry.com
+lemmy.ml
 lenovo.com
 level1techs.com
 level3.net
@@ -365,12 +376,14 @@ linkedin.com
 linuxsecurity.com
 linux.slashdot.org
 list.iblocklist.com
+lists.ipthreat.net
 live.blockcypher.com
 livejournal.net
 livestream.tesla.com
 locize.app
 logging.apache.org
 login.vk.com
+logs.xmpp.org
 lwn.net
 mail.gandi.net
 mail.ru
@@ -424,6 +437,7 @@ nextcloud.com
 nflximg.net
 nflxvideo.net
 nitrokey.com
+nixspam.net
 nl1.api.radio-browser.info
 nyt.com
 nytimes.com
@@ -526,6 +540,7 @@ secureir.ebaystatic.com
 secureserver.net
 sellercentral.amazon.com
 sendgrid.net
+sentinel.turris.cz
 serverfault.com
 shallalist.de
 shiftphones.com
@@ -537,6 +552,7 @@ sinodun.com
 sirius.mwbsys.com
 slashdot.org
 smtp.gandi.net
+snort.org
 softonic.com
 somafm.com
 someonewhocares.com
@@ -600,6 +616,7 @@ thecybershadow.net
 theguardian.com
 thewirecutter.com
 thinkwiki.org
+threatview.io
 three.co.uk
 ting.com
 tinyurl.com
@@ -642,6 +659,7 @@ verizonwireless.com
 v.firebog.net
 v.firebox.net
 videolan.org
+view.sentinel.turris.cz
 vimeocdn.com
 vimeo.com
 vindolanda.csad.ox.ac.uk
@@ -652,6 +670,7 @@ vistaprint.com
 vk.com
 vmware.com
 void.gr
+voipbl.org
 vo.llnwd.net
 vpsvc.com
 vultr.com
@@ -709,6 +728,7 @@ www.asciinema.org
 www.ashleyfurniturehomestore.com
 www.asus.com
 www.att.com
+www.auphonic.com
 www.autogeek.net
 www.autozone.com
 www.ax4z.com
@@ -880,6 +900,7 @@ www.netflix.com
 www.netlify.com
 www.newegg.com
 www.nitrokey.com
+www.nixspam.net
 www.nyt.com
 www.nytimes.com
 www.officedepot.com
@@ -1048,6 +1069,7 @@ xda-developers.com
 xhamster.com
 xiaomi.com
 xkcd.com
+xmpp.org
 xonotic.org
 xtools.wmflabs.org
 yahoo.co.jp
@@ -1066,9 +1088,3 @@ zillowapi.com
 zillow.com
 zillow.net
 zillowstatic.com
-logs.xmpp.org
-xmpp.org
-lemmy.ml
-dino.im
-www.auphonic.com
-auphonic.com
