@@ -1,9 +1,11 @@
 #License: CC0
 
+1898395290.rsc.cdn77.org
 alicdn.com
 b-cdn.net
 bootstrapcdn.com
 brightspotcdn.com
+cdn77.org
 cdn-apple.com
 cdn.jsdelivr.net
 cdn.statically.io
@@ -42,6 +44,7 @@ oraclecloud.com
 oraclecloud.com.edgekey.net
 pressablecdn.com
 psicdn.net
+rsc.cdn77.org
 samsappsbn.vo.llnwd.net
 softlayer.net
 stackpathcdn.com

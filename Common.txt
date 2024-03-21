@@ -164,6 +164,8 @@ dino.im
 discordapp.com
 discourse-cdn.com
 discourse.org
+discuss-cdn.kde.org
+discuss.kde.org
 disqus.com
 distrowatch.com
 dlang.org
@@ -303,6 +305,7 @@ hpe.com
 html.duckduckgo.com
 http2.pro
 hubble.mb-cosmos.com
+huggingface.co
 humblebundle.com
 iblocklist.com
 ice1.somafm.com
@@ -354,6 +357,7 @@ jsdelivr.net
 js.stripe.com
 jtvnw.net
 kaggle.com
+kde.org
 keystone.mwbsys.com
 kickstarter.com
 kimsufi.com
