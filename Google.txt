@@ -81,6 +81,8 @@ redirector.gvt1.com
 remoteprovisioning.googleapis.com
 safebrowsing.googleapis.com
 safebrowsing.google.com
+sb-ssl.google.com
+sb-ssl.l.google.com
 securetoken.googleapis.com
 source.android.com
 source.chromium.org

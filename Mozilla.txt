@@ -17,6 +17,7 @@ firefox.settings.services.mozilla.com
 firefox-source-docs.mozilla.org
 hg.mozilla.org
 location.services.mozilla.com
+malware-error.mozilla.com
 mitmdetection.services.mozilla.com
 monitor.firefox.com
 mozgcp.net
@@ -24,6 +25,8 @@ mozilla.com
 mozilla.net
 mozilla.org
 onecrl.content-signature.mozilla.org
+phish-error.mozilla.com
+phish-report.mozilla.com
 push.services.mozilla.com
 remote-settings.content-signature.mozilla.org
 searchfox.org
