@@ -1094,3 +1094,7 @@ zillow.net
 zillowstatic.com
 s3.documentcloud.org
 documentcloud.org
+nachdenkseiten.de
+archive.org
+web.archive.org
+us.archive.org
