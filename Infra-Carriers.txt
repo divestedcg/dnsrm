@@ -25,6 +25,8 @@ ab.kyivstar.net
 action.wataniya.com
 active.bhmobile.ba
 admin.cs4glte.com
+agpss.orange.fr
+agps.supl.telstra.com
 aina.fi
 aiowireless.net
 airfiremobile.com
@@ -223,6 +225,7 @@ fr.lebara.mobi
 gadu-gadu.pl
 gci.csky.us
 geocell.com.ge
+geo.t-mobile.com
 giffgaff.com
 gint.b-online.gr
 globe.com.ph
@@ -467,6 +470,7 @@ kpn4g.nl
 ktfwing.com
 kyivstar.net
 kymp.net
+lbs.geo.t-mobile.com
 lebara.co.uk
 lebaramobile.es
 life.com.by
@@ -1201,6 +1205,7 @@ pxt.vodafone.net.nz
 qbmore.mobi
 q-mms.myq.gr
 quam.com.ar
+qxwz.com
 rcom.co.in
 real.globe.com.ph
 relay.mms.telering.at
@@ -1244,6 +1249,8 @@ sp.telus.com
 starhubgee.com.sg
 suncom.net
 sunrise.ch
+supl.qxwz.com
+supl.telstra.com
 surfmail.com
 symacom.fr
 symamobile.com
