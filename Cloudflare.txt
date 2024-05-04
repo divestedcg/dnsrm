@@ -28,6 +28,7 @@ cloudflare.cloudflare-dns.com
 cloudflare.com
 cloudflare-dns.com
 cloudflare.net
+cloudflareresearch.com
 cloudflarestatus.com
 com.cdn.cloudflare.net
 commozilla.cloudflare-dns.com
@@ -60,6 +61,7 @@ one.one.one.one.cloudflare-dns.com
 opera.cloudflare-dns.com
 org.cdn.cloudflare.net
 ozilla.cloudflare-dns.com
+pq.cloudflareresearch.com
 proxy-ny.odoh.cloudflare-dns.com
 proxy.odoh.cloudflare-dns.com
 qamozilla.cloudflare-dns.com

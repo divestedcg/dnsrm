@@ -5,6 +5,7 @@ aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com
 abcnews.go.com
 about.usps.com
 abuse.ch
+ac.duckduckgo.com
 acer.com
 adata.com
 adaway.org
@@ -13,6 +14,7 @@ adguard.com
 adidas.com
 adobe.com
 adsl.tie.cl
+adtidy.org
 aexp-static.com
 algolia.com
 algolia.net
@@ -177,6 +179,7 @@ docs.oracle.com
 docs.qualcomm.com
 docs.redis.com
 docs.syncthing.net
+documentcloud.org
 donate.stripe.com
 dongleauth.info
 downdetector.com
@@ -228,6 +231,7 @@ fellers.com
 feodotracker.abuse.ch
 ffprofile.com
 files.wordpress.com
+filters.adtidy.org
 firebog.net
 firehol.org
 firejail.wordpress.com
@@ -394,6 +398,7 @@ mail.ru
 main.px.t-online.de
 malwaredomainlist.com
 malwaredomains.com
+malware-filter.gitlab.io
 mama.csad.ox.ac.uk
 manual.limesurvey.org
 mapillary.com
@@ -418,6 +423,7 @@ mirrors.nju.edu.cn
 mirrors.tuna.tsinghua.edu.cn
 miui.com
 mobile.spotify.com
+mojeek.com
 moongiant.com
 mouser.com
 m.spotify.com
@@ -430,6 +436,7 @@ myworkday.com
 myworkdayjobs.com
 mzstatic.com
 nabble.com
+nachdenkseiten.de
 netflix.com
 netlify.com
 netnod.se
@@ -535,10 +542,12 @@ rodsbooks.com
 roku.com
 rover.ebay.com
 rr.com
+s3.documentcloud.org
 sbcglobal.net
 scene7.com
 seal.globalsign.com
 search.jabber.network
+secure.fanboy.co.nz
 secure.gravatar.com
 secureir.ebaystatic.com
 secureserver.net
@@ -641,6 +650,9 @@ turris.cz
 tutorialspoint.com
 twimg.com
 twitter.com
+typeform.com
+ublockorigin.github.io
+ublockorigin.pages.dev
 ultipro.com
 unity3d.com
 unix.stackexchange.com
@@ -649,6 +661,7 @@ unsplash.com
 upload.teknik.io
 urbandictionary.com
 urlhaus.abuse.ch
+us.archive.org
 usenix.org
 user-images.githubusercontent.com
 us.msi.com
@@ -684,6 +697,7 @@ walmart.com
 walmartimages.com
 washingtonpost.com
 watch.owncast.online
+web.archive.org
 webmail.gandi.net
 webpagetest.org
 webs.com
@@ -1092,10 +1106,3 @@ zillowapi.com
 zillow.com
 zillow.net
 zillowstatic.com
-s3.documentcloud.org
-documentcloud.org
-nachdenkseiten.de
-archive.org
-web.archive.org
-us.archive.org
-typeform.com
