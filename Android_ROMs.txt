@@ -21,3 +21,4 @@ www.lineageos.org
 www.microg.org
 www.replicant.us
 www.twrp.me
+connectivity.ecloud.global

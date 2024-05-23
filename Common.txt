@@ -1106,3 +1106,7 @@ zillowapi.com
 zillow.com
 zillow.net
 zillowstatic.com
+telepolis.de
+cvd.clamav.net
+current.cvd.clamav.net
+ghostery.com
