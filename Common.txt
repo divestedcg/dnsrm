@@ -1110,3 +1110,6 @@ telepolis.de
 cvd.clamav.net
 current.cvd.clamav.net
 ghostery.com
+js.klevu.com
+www.ox.ac.uk
+ox.ac.uk

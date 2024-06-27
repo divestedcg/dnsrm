@@ -1,0 +1,8 @@
+#License: CC0
+
+assets.mydealz.de
+images.mydealz.de
+live.mydealz.de
+ocular.mydealz.de
+static.mydealz.de
+www.mydealz.de

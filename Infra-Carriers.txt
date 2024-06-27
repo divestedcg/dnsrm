@@ -1566,3 +1566,6 @@ test.rsp.sysmocom.de
 rsp.sysmocom.de
 sysmocom.de
 oasis-smartsim.com
+vsb.vzw.otgeuicc.com
+vzw.otgeuicc.com
+otgeuicc.com
