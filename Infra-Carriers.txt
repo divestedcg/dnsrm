@@ -1,4 +1,4 @@
-#License: Apache-2.0
+#License: CC0
 #Source: https://github.com/LineageOS/android_vendor_lineage/blob/lineage-19.1/prebuilt/common/etc/apns-conf.xml
 
 2degreesmobile.net.nz

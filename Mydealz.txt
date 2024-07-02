@@ -6,3 +6,4 @@ live.mydealz.de
 ocular.mydealz.de
 static.mydealz.de
 www.mydealz.de
+mydealz.de
