@@ -145,9 +145,11 @@ cr.yp.to
 crypto.stackexchange.com
 csad.ox.ac.uk
 curben.gitlab.io
+current.cvd.clamav.net
 curseforge.com
 curses.csad.ox.ac.uk
 customer.teliacarrier.com
+cvd.clamav.net
 cyan4973.github.io
 cybercure.ai
 cyberpunk.net
@@ -230,6 +232,7 @@ feedly.com
 fellers.com
 feodotracker.abuse.ch
 ffprofile.com
+files.catbox.moe
 files.wordpress.com
 filters.adtidy.org
 firebog.net
@@ -256,6 +259,7 @@ gandi.net
 gateway.usps.com
 getpocket.com
 ghacks.net
+ghostery.com
 gigabyte.com
 gist.github.com
 githubassets.com
@@ -348,6 +352,7 @@ is6-ssl.mzstatic.com
 issuetracker.unity3d.com
 itsfoss.com
 itunes.apple.com
+ivpn.net
 izzysoft.de
 jabber.network
 jami.net
@@ -358,6 +363,7 @@ jmp.chat
 jockey.com
 jquery.com
 jsdelivr.net
+js.klevu.com
 js.stripe.com
 jtvnw.net
 kaggle.com
@@ -427,6 +433,7 @@ mojeek.com
 moongiant.com
 mouser.com
 m.spotify.com
+mullvad.net
 mumble.info
 m.vk.com
 mvps.org
@@ -475,10 +482,12 @@ opstatics.com
 oracle.com
 osdn.net
 osint.bambenekconsulting.com
+overton-magazin.de
 ovh.ca
 ovh.com
 owncast.online
 owner.ford.com
+ox.ac.uk
 p2.siacs.eu
 pagure.io
 passmark.com
@@ -511,6 +520,7 @@ preev.com
 privacyguides.org
 prosody.im
 protondb.com
+proton.me
 ptb.de
 publicsuffix.org
 puri.sm
@@ -528,12 +538,14 @@ rdcpix.com
 readthedocs.io
 readthedocs.org
 realtor.com
+rebrand.ly
 redd.it
 reddit.com
 redditmedia.com
 redditstatic.com
 redis.com
 render.githubusercontent.com
+reolink.com
 res.rr.com
 rima-tde.net
 ring.cx
@@ -619,6 +631,7 @@ telegram.me
 telekom.at
 telekom.hu
 telenet.ru
+telepolis.de
 telesp.net.br
 teliacarrier.com
 tesla.com
@@ -693,6 +706,7 @@ vpsvc.com
 vultr.com
 w3.org
 wal.co
+wallet.proton.me
 walmart.com
 walmartimages.com
 washingtonpost.com
@@ -938,6 +952,7 @@ www.oracle.com
 www.osdn.net
 www.ovh.ca
 www.ovh.com
+www.ox.ac.uk
 www.pagure.io
 www.passmark.com
 www.pastebin.com
@@ -1077,6 +1092,7 @@ www.yandex.com
 www.yandex.ru
 www.ycombinator.com
 www.yelp.com
+www.yep.com
 www.yoyo.org
 www.zdnet.com
 www.zendesk.com
@@ -1097,6 +1113,7 @@ yandex.ru
 ycombinator.com
 yelpcdn.com
 yelp.com
+yep.com
 yimg.com
 yimg.com.edgesuite.net
 yoyo.org
@@ -1106,10 +1123,3 @@ zillowapi.com
 zillow.com
 zillow.net
 zillowstatic.com
-telepolis.de
-cvd.clamav.net
-current.cvd.clamav.net
-ghostery.com
-js.klevu.com
-www.ox.ac.uk
-ox.ac.uk
