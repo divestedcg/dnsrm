@@ -153,7 +153,6 @@ cvd.clamav.net
 cyan4973.github.io
 cybercure.ai
 cyberpunk.net
-cybertip.org
 de1.api.radio-browser.info
 dealer.com
 dedoimedo.com
@@ -547,7 +546,6 @@ redditstatic.com
 redis.com
 render.githubusercontent.com
 reolink.com
-report.cybertip.org
 res.rr.com
 rima-tde.net
 ring.cx
