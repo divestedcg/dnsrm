@@ -9,6 +9,7 @@ amazontrust.com
 api.letsencrypt.org
 apple.com
 apps.identrust.com
+cacerts.digicert.com
 ca.vodafone.com
 cdp1.public-trust.com
 commercial.ocsp.identrust.com
