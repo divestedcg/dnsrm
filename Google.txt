@@ -112,3 +112,4 @@ youtu.be
 youtube.com
 youtube-nocookie.com
 ytimg.com
+jnn-pa.googleapis.com

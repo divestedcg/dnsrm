@@ -16,6 +16,7 @@ adobe.com
 adsl.tie.cl
 adtidy.org
 aexp-static.com
+affinity.serif.com
 algolia.com
 algolia.net
 algolianet.com
@@ -566,6 +567,7 @@ secureserver.net
 sellercentral.amazon.com
 sendgrid.net
 sentinel.turris.cz
+serif.com
 serverfault.com
 shallalist.de
 shiftphones.com

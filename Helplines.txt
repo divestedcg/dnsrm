@@ -216,6 +216,7 @@ health.gov.au
 health.govt.nz
 healthycanadians.gc.ca
 helpageindia.org
+helpguide.org
 helpmequit.wales
 helpwanted.nl
 hewakatapu.org.nz
@@ -592,6 +593,7 @@ www.health.gov.au
 www.health.govt.nz
 www.healthycanadians.gc.ca
 www.helpageindia.org
+www.helpguide.org
 www.helpmequit.wales
 www.helpwanted.nl
 www.hewakatapu.org.nz
