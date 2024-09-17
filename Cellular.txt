@@ -2,3 +2,4 @@
 
 3gppnetwork.org
 pub.3gppnetwork.org
+captivemgr.o2wifi.net.uk
