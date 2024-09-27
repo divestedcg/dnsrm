@@ -1,0 +1,26 @@
+#License: CC0
+
+alerts.businesswire.com
+assuredguaranty.newshq.businesswire.com
+blog.businesswire.com
+businesswire.com
+bw.newshq.businesswire.com
+cit.newshq.businesswire.com
+feeds.businesswire.com
+fluor.newshq.businesswire.com
+go.businesswire.com
+gultu.investorhq.businesswire.com
+humana.newshq.businesswire.com
+m.businesswire.com
+mms.businesswire.com
+mxlb.businesswire.com
+newsroom.businesswire.com
+ns11.businesswire.com
+ns22.businesswire.com
+secure.businesswire.com
+smp.businesswire.com
+smp.newshq.businesswire.com
+stream.newshq.businesswire.com
+voc.investorhq.businesswire.com
+whx.investorhq.businesswire.com
+www.businesswire.com
