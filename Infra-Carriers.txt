@@ -1569,3 +1569,6 @@ oasis-smartsim.com
 vsb.vzw.otgeuicc.com
 vzw.otgeuicc.com
 otgeuicc.com
+prod.smdp-plus.rsp.goog
+smdp-plus.rsp.goog
+rsp.goog

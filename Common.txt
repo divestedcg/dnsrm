@@ -1125,3 +1125,4 @@ zillowapi.com
 zillow.com
 zillow.net
 zillowstatic.com
+thehackernews.com
