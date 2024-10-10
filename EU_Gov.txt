@@ -1,0 +1,10 @@
+#License: Public Domain
+
+eea.europa.eu
+email.iss.europa.eu
+epwa.europarl.europa.eu
+europa.eu
+europarl.europa.eu
+european-union.europa.eu
+reports.eea.europa.eu
+stats.euipo.europa.eu
