@@ -2,6 +2,8 @@
 #STUN servers from https://github.com/keroserene/snowflake/blob/master/client/torrc
 
 2019.www.torproject.org
+alertmanager1.torproject.org
+alertmanager2.torproject.org
 api.donate.torproject.org
 archive.torproject.org
 aus1.torproject.org
@@ -22,6 +24,7 @@ donate-api.torproject.org
 donate.torproject.org
 exonerator.torproject.org
 extra.torproject.org
+forum.torproject.org
 gettor.torproject.org
 gitlab.torproject.org
 git.torproject.org
@@ -29,7 +32,11 @@ gitweb.torproject.org
 grafana1.torproject.org
 grafana2.torproject.org
 ircbouncer.torproject.org
+karma1.torproject.org
+karma2.torproject.org
 metabase.metrics.torproject.org
+metrics-api.torproject.org
+metrics-db.torproject.org
 metrics.torproject.org
 moat.torproject.org
 nagios.torproject.org
@@ -43,6 +50,7 @@ people.torproject.org
 prometheus1.torproject.org
 prometheus2.torproject.org
 rbm.torproject.org
+rdsys-moat.torproject.org
 research.torproject.org
 review.torproject.net
 rpm.torproject.org
@@ -72,6 +80,7 @@ submission.torproject.org
 support.torproject.org
 survey.torproject.org
 svn-archive.torproject.org
+tagtor.torproject.org
 tb-manual.torproject.org
 test-api.donate.torproject.org
 test.crm.torproject.org

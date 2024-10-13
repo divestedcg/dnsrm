@@ -1,4 +1,4 @@
-#License: Public Domain
+#License: CC0
 
 eea.europa.eu
 email.iss.europa.eu
