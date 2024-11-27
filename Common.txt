@@ -1128,3 +1128,5 @@ zillowstatic.com
 thehackernews.com
 trenitalia.com
 www.trenitalia.com
+stat.ripe.net
+ripe.net
