@@ -14,6 +14,7 @@ apple.com
 appleid.cdn-apple.com
 apple-livephotoskit.com
 apple-mapkit.com
+apple-relay.akamaized.net
 apple-relay.apple.com
 apple-relay.cloudflare.com
 apple-relay.fastly-edge.com
@@ -51,6 +52,7 @@ diagassets.apple.com
 digicert.com
 dns.apple.com
 doh.dns.apple.com
+doh.dns.apple.com.v.aaplimg.com
 download.developer.apple.com
 edgesuite.net
 edu.apple.com
@@ -85,7 +87,10 @@ itunes.com
 iwork.apple.com
 lcdn-locator.apple.com
 lcdn-registration.apple.com
+mask-api.fe2.apple-dns.net
 mask-api.icloud.com
+mask.apple-dns.net
+mask-canary.icloud.com
 mask-h2.icloud.com
 mask.icloud.com
 mdmenrollment.apple.com

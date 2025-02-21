@@ -48,6 +48,7 @@ unicast.censurfridns.dk
 unicast.uncensoreddns.org
 whois.gandi.net
 whois.markmonitor.com
+whois.nic.me
 whois.nic.us
 whois.pir.org
 whois.verisign-grs.com
