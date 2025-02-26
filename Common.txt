@@ -1130,3 +1130,5 @@ trenitalia.com
 www.trenitalia.com
 stat.ripe.net
 ripe.net
+epravda.com.ua
+pravda.com.ua
