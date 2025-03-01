@@ -9,6 +9,7 @@ connectivitycheck.grapheneos.online
 connectivitycheck.grapheneos.org
 connectivity.grapheneos.org
 discuss.grapheneos.org
+dl.vanadium.app
 element.grapheneos.org
 google.psds.grapheneos.org
 grapheneos.app
@@ -23,6 +24,7 @@ grapheneos.org
 grapheneos.ovh
 grapheneos.page
 grapheneos.social
+gs-loc.apple.grapheneos.org
 mail.grapheneos.org
 matrix.grapheneos.org
 mta-sts.attestation.app
@@ -42,9 +44,11 @@ mta-sts.seamlessupdate.app
 mta-sts.vanadium.app
 ns1.grapheneos.org
 ns2.grapheneos.org
+psds.grapheneos.org
 qualcomm.psds.grapheneos.org
 releases.grapheneos.org
 remoteprovisioning.grapheneos.org
+samsung.psds.grapheneos.org
 seamlessupdate.app
 staging.attestation.app
 staging.grapheneos.org
