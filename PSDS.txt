@@ -1,6 +1,11 @@
 #License: CC0
 
 1.ssiloc.com
+2.ssiloc.com
+3.ssiloc.com
+4.ssiloc.com
+5.ssiloc.com
+6.ssiloc.com
 agnss.goog
 gllto1.glpals.com
 gllto2.glpals.com
@@ -15,20 +20,26 @@ path1.izatcloud.net
 path1.xtracloud.net
 path2.gpsonextra.net
 path2.izatcloud.net
+path2.xtracloud.net
 path3.gpsonextra.net
 path3.izatcloud.net
+path3.xtracloud.net
 path4.gpsonextra.net
 path4.izatcloud.net
+path4.xtracloud.net
 path5.gpsonextra.net
 path5.izatcloud.net
+path5.xtracloud.net
 path6.gpsonextra.net
 path6.izatcloud.net
+path6.xtracloud.net
 path7.gpsonextra.net
 path7.izatcloud.net
 path8.gpsonextra.net
 path8.izatcloud.net
 path9.gpsonextra.net
 path9.izatcloud.net
+ssiloc.com
 xtra1.gpsonextra.net
 xtra1.izatcloud.net
 xtra2.gpsonextra.net
@@ -47,6 +58,7 @@ xtra8.gpsonextra.net
 xtra8.izatcloud.net
 xtra9.gpsonextra.net
 xtra9.izatcloud.net
+xtracloud.net
 xtrapath1.gpsonextra.net
 xtrapath1.izatcloud.net
 xtrapath2.gpsonextra.net
