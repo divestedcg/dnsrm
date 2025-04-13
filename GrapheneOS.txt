@@ -55,7 +55,9 @@ staging.grapheneos.org
 staging.ns1.grapheneos.org
 supl.grapheneos.org
 time.grapheneos.org
+update.vanadium.app
 vanadium.app
+widevineprovisioning.grapheneos.org
 www.attestation.app
 www.grapheneos.app
 www.grapheneos.ca
