@@ -212,6 +212,7 @@ energia.ee
 ente.io
 en.wikipedia.org
 en.wiktionary.org
+epravda.com.ua
 equifax.com
 esri.com
 etsy.com
@@ -460,6 +461,7 @@ nixspam.net
 nl1.api.radio-browser.info
 nyt.com
 nytimes.com
+o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion
 odycdn.com
 odysee.com
 odysee.tv
@@ -517,6 +519,7 @@ pool.telekom.hu
 pornhub.com
 postalpro.usps.com
 postcalc.usps.com
+pravda.com.ua
 preev.com
 privacyguides.org
 prosody.im
@@ -544,6 +547,7 @@ redd.it
 reddit.com
 redditmedia.com
 redditstatic.com
+reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
 redis.com
 render.githubusercontent.com
 reolink.com
@@ -551,6 +555,7 @@ res.rr.com
 rima-tde.net
 ring.cx
 riot.im
+ripe.net
 rodsbooks.com
 roku.com
 rover.ebay.com
@@ -603,6 +608,7 @@ startpage.com
 static.dealer.com
 staticip.rima-tde.net
 static.kickstarter.com
+stat.ripe.net
 stickermule.com
 stopforumspam.com
 store-usa.arduino.cc
@@ -642,6 +648,7 @@ thawte.com
 thdstatic.com
 thecybershadow.net
 theguardian.com
+thehackernews.com
 thewirecutter.com
 thinkwiki.org
 threatview.io
@@ -660,6 +667,7 @@ transformativeworks.org
 travis-ci.com
 trellocdn.com
 trello.com
+trenitalia.com
 tumblr.com
 turris.cz
 tutorialspoint.com
@@ -1045,6 +1053,7 @@ www.torproject.org
 www.transformativeworks.org
 www.trellocdn.com
 www.trello.com
+www.trenitalia.com
 www.tumblr.com
 www.turris.cz
 www.tutorialspoint.com
@@ -1125,11 +1134,3 @@ zillowapi.com
 zillow.com
 zillow.net
 zillowstatic.com
-thehackernews.com
-trenitalia.com
-www.trenitalia.com
-stat.ripe.net
-ripe.net
-epravda.com.ua
-pravda.com.ua
-reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
