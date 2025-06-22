@@ -17,6 +17,7 @@ collector.torproject.org
 community.torproject.org
 consensus-health.torproject.org
 crm.torproject.org
+db.torproject.org
 deb.torproject.org
 dev.crm.torproject.org
 dist.torproject.org
@@ -34,6 +35,7 @@ grafana2.torproject.org
 ircbouncer.torproject.org
 karma1.torproject.org
 karma2.torproject.org
+lists-01.torproject.org
 metabase.metrics.torproject.org
 metrics-api.torproject.org
 metrics-db.torproject.org
@@ -44,6 +46,7 @@ newsletter.torproject.org
 nightlies.tbb.torproject.org
 nyx.torproject.org
 onionoo.torproject.org
+onionservices.torproject.org
 onion.torproject.org
 openpgpkey.torproject.org
 people.torproject.org

@@ -1,5 +1,5 @@
 #License: CC0
-#Source: https://github.com/LineageOS/android_vendor_lineage/blob/lineage-21.0/prebuilt/common/etc/sensitive_pn.xml
+#Source: https://github.com/LineageOS/android_vendor_lineage/blob/lineage-23.0/prebuilt/common/etc/sensitive_pn.xml
 #Source: https://www.helpguide.org/find-help
 
 080020100.bg

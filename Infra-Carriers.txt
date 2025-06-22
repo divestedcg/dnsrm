@@ -1,5 +1,5 @@
 #License: CC0
-#Source: https://github.com/LineageOS/android_vendor_lineage/blob/lineage-19.1/prebuilt/common/etc/apns-conf.xml
+#Source: https://github.com/LineageOS/android_vendor_lineage/blob/lineage-23.0/prebuilt/common/etc/apns-conf.xml
 
 2degreesmobile.net.nz
 3.dk
@@ -37,6 +37,7 @@ airtelmms.com
 airtelnet.es
 airtelwap.es
 ais.co.th
+algar.br
 aliasredirect.net
 alltele.tmh-gprs.se
 alltele.tmh-mms.se
@@ -54,6 +55,7 @@ apnmms.movistar.com.uy
 apnota.4g.mycricket.com
 apnumt.movistar.com.uy
 app.movilnet.com.ve
+apps.bell.ca
 aster.internet
 aster.mms
 aster.pl
@@ -131,6 +133,7 @@ data2.eronet.ba
 data3.eronet.ba
 data4.eronet.ba
 datacard.nextel3g.net.br
+data.cogecomobile.ca
 data.dataxs.mobi
 data.dk
 data.kaplan
@@ -400,6 +403,7 @@ internet.postemobile.it
 internet.proximus.be
 internet.rl
 internet.saunalahti
+internet.sberbank-tele.com
 internet.se
 internet.setera.fi
 internet.simobil.si
@@ -441,6 +445,7 @@ internet.vodafone.ro
 internet.wcc.net
 internet.westlink
 internet.wind
+internet.xploremobile.com
 internet.yota
 int.movilnet.com.ve
 int.socialmas
@@ -457,6 +462,7 @@ itelcel.com
 iusacell3g.com
 iwireless.dataonair.net
 iwireless.datonair.net
+java.claro.com.br
 jawalnet.com.sa
 jawwal.ps
 jazztelmms.com
@@ -509,6 +515,7 @@ message.coopvoce.it
 metropcs.mmsmvno.com
 metropcs.net
 mic1.com.lb
+mig.sasktel.com
 mineo-d.jp
 mineo.jp
 mmc.digicelfr.com
@@ -603,6 +610,7 @@ mms.cellular1.net
 mmsc.entelpcs.cl
 mmscenter.suncellular.com.ph
 mmsc.gci.csky.us
+mmsc.gci.net
 mmsc.golantelecom.co.il
 mmsc.gomobile.fi
 mmsc.gprs.cw.com
@@ -652,6 +660,7 @@ mmsc.optus.com.au
 mmsc.orange.at
 mmsc.pgsm.hu
 mmsc.proximus.be
+mmscproxy.mobility.ca
 mmsc.pt.lu
 mmsc.setera.fi
 mmsc.sunrise.ch
@@ -693,6 +702,7 @@ mmsc.vodafone.al
 mmsc.vodafone.es
 mmsc.vodafone.is
 mmsc.westlinkcom.com
+mmsc.xploremobile.com
 mms.cyfrowypolsat.pl
 mms.davewireless.com
 mms.dialog.lk
@@ -793,6 +803,7 @@ mms.life
 mms.life.com.by
 mms.lowi.omv.es
 mmslte.claropr.com
+mms.luckymobile.ca
 mms.manxpronto.net
 mms.meditel.ma
 mms.metropcs.net
@@ -801,6 +812,7 @@ mms.mic1.com.lb
 mms.mni.pl
 mms.mobeelife.net
 mms.mobi.eastlink.ca
+mms.mobile.bm
 mms.mobilebysainsburys.co.uk
 mms.mobilelife.co.th
 mms.mobile.pl
@@ -892,6 +904,10 @@ mms.pre.vodafone.ro
 mms.primetel
 mms.promonte.com
 mms.prontogo.net
+mmsproxy.chatrwireless.com
+mmsproxy.fido.ca
+mmsproxy.mobile.bm
+mmsproxy.rogers.com
 mms.pt.lu
 mms.qbmore.mobi
 mms.qtel
@@ -1047,6 +1063,7 @@ mobile.three.com.hk
 mobile.three.com.mo
 mobile.vodafone.it
 mobilicity.net
+mobility.ca
 mobilking.pl
 mobistar.be
 mobitag.nc
@@ -1129,6 +1146,7 @@ nwn.no
 o2active.cz
 o2world.sk
 oap7.sprintpcs.com
+oasis-smartsim.com
 office.vodafone.nl
 ofnew.fr
 oister.dk
@@ -1167,6 +1185,7 @@ orange.web
 orange.world
 org.pelephone.net.il
 ota.inland.com
+otgeuicc.com
 ovivomobile.com
 ovivomvno.com
 payandgo.o2.co.uk
@@ -1196,6 +1215,7 @@ pp.vodafone.co.uk
 prepago.ancel
 prepay.tesco-mobile.com
 private.centennialwireless.com
+prod.smdp-plus.rsp.goog
 proximus.be
 pt.lu
 pwg.mmsmvno.com
@@ -1213,13 +1233,20 @@ rmobile.jp
 roaming.sktelecom.com
 rogers-core-appl1.apn
 roshan.af
+rsp.goog
+rsp.sysmocom.de
+rsp.truphone.com
 sasktel.com
 saunalahti.fi
+sberbank-tele.com
 scomo.tmh-gprs.se
 scomo.tmh-mms.se
 sercomtel.com.br
 services.glocalnet.se
+services.koodo.com
+services.mb.com
 services.telenor.se
+services.telus.com
 setar.aw
 setera.fi
 share.lte.three.com.hk
@@ -1229,6 +1256,9 @@ smart.com
 smartone.com
 smartone.com.mo
 smartsites.t-mobile
+smdp.io
+smdp-plus.rsp.goog
+smdpp.test.rsp.sysmocom.de
 smile.world
 smpl.mms.msg.eng.t-mobile.com
 solavei.mmsmvno.com
@@ -1254,6 +1284,7 @@ supl.telstra.com
 surfmail.com
 symacom.fr
 symamobile.com
+sysmocom.de
 tal.is
 talkmobile.co.uk
 talktalk.co.uk
@@ -1299,6 +1330,7 @@ tel.tmhmms
 termnat.vivomms.com.br
 termwapgsm2.vivo.com.br
 tescomobile.liffeytelecom.com
+test.rsp.sysmocom.de
 tethering.cs4glte.com
 tethering.dish.com
 three.co.id
@@ -1396,7 +1428,9 @@ volte.mobilefrdm.ca
 vox.com.py
 vox.internet
 vox.mms
+vsb.vzw.otgeuicc.com
 vtext.com
+vzw.otgeuicc.com
 vzwreseller.com
 wap1.iwireless.com
 wap9.iwireless.com
@@ -1549,6 +1583,9 @@ www.vodafone.ie
 www.vodafone.net.nz
 www.xlgprs.net
 www.xlmms.net
+xcap.freedommobile.ca
+xcap.ims
+xcap.xploremobile.com
 xi01.wi-gate.net
 xlgprs.net
 xlmms.net
@@ -1558,17 +1595,3 @@ zain.sd
 zap.vivo.com.br
 ziggo.dataxs.mobi
 zonamovil.com.pa
-rsp.truphone.com
-truphone.com
-smdp.io
-smdpp.test.rsp.sysmocom.de
-test.rsp.sysmocom.de
-rsp.sysmocom.de
-sysmocom.de
-oasis-smartsim.com
-vsb.vzw.otgeuicc.com
-vzw.otgeuicc.com
-otgeuicc.com
-prod.smdp-plus.rsp.goog
-smdp-plus.rsp.goog
-rsp.goog
