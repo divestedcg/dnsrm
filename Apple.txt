@@ -106,6 +106,7 @@ oscdn.apple.com
 osrecovery.apple.com
 pg-bootstrap.itunes.apple.com
 phonesubmissions.apple.com
+iphonesubmissions.apple.com
 playgrounds-assets-cdn.apple.com
 playgrounds-cdn.apple.com
 play.itunes.apple.com
