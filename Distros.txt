@@ -1,7 +1,6 @@
 #License: CC0
 
 access.redhat.com
-access.redhat.org
 apps.fedoraproject.org
 archlinux.com
 archlinux.org
@@ -9,10 +8,10 @@ ask.fedoraproject.org
 askubuntu.com
 aur.archlinux.org
 blog.elementary.io
+bodhi.fedoraproject.org
 boum.org
 bugzilla.kernel.org
 bugzilla.redhat.com
-bugzilla.redhat.org
 centos.org
 communityblog.fedoraproject.org
 conncheck.opensuse.com
@@ -32,6 +31,7 @@ fedoraplanet.org
 fedoraproject.org
 flathub.org
 forum.openwrt.org
+forum.qubes-os.org
 freedesktop.org
 fwupd.org
 gentoo.org
@@ -47,6 +47,7 @@ gnome.org
 kde.org
 kernel.org
 kernsec.org
+koji.fedoraproject.org
 linuxmint.com
 lists.fedoraproject.org
 lists.openwall.com
@@ -64,6 +65,7 @@ openwrt.org
 pantheon.io
 parabola.nu
 postmarketos.org
+qubes-os.org
 redhat.com
 review.coreboot.org
 rpmfusion.org
@@ -111,8 +113,8 @@ www.openwrt.org
 www.pantheon.io
 www.parabola.nu
 www.postmarketos.org
+www.qubes-os.org
 www.redhat.com
-www.redhat.org
 www.rpmfusion.org
 www.spinics.net
 www.trisquel.info

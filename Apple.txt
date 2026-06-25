@@ -1,5 +1,5 @@
 #License: CC0
-##Source: https://support.apple.com/en-us/101555
+#Source: https://support.apple.com/en-us/101555
 
 account.apple.com
 albert.apple.com
@@ -14,6 +14,7 @@ apple.com
 appleid.cdn-apple.com
 apple-livephotoskit.com
 apple-mapkit.com
+apple-native-relay.apple.com
 apple-relay.akamaized.net
 apple-relay.apple.com
 apple-relay.cloudflare.com
@@ -80,6 +81,7 @@ idmsa.apple.com
 idv.cdn-apple.com
 idv-prod1.apple.com
 ig.apple.com
+iphonesubmissions.apple.com
 iprofiles.apple.com
 ips.apple.com
 itunes.apple.com
@@ -95,6 +97,7 @@ mask-h2.icloud.com
 mask.icloud.com
 mdmenrollment.apple.com
 mesu.apple.com
+metrics.icloud.com
 mzstatic.com
 networking.apple
 ns.itunes.apple.com
@@ -105,13 +108,13 @@ ocsp.digicert.com
 oscdn.apple.com
 osrecovery.apple.com
 pg-bootstrap.itunes.apple.com
-phonesubmissions.apple.com
-iphonesubmissions.apple.com
 playgrounds-assets-cdn.apple.com
 playgrounds-cdn.apple.com
 play.itunes.apple.com
+pong.icloud.com
 pos-device.apple.com
 ppq.apple.com
+probe.icloud.com
 push.apple.com
 safebrowsing.apple
 school.apple.com
