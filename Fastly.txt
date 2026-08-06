@@ -38,3 +38,4 @@ walmart-nosni.map.fastly.net
 www.fastly.com
 www.fastly.net
 yelp-com.map.fastly.net
+fastly-edge.com
