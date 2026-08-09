@@ -346,6 +346,7 @@ ipthreat.net
 ipv6.he.net
 ipv6-test.com
 i.reddit.com
+ironfoxoss.org
 is1-ssl.mzstatic.com
 is2-ssl.mzstatic.com
 is3-ssl.mzstatic.com
@@ -562,6 +563,7 @@ roku.com
 rover.ebay.com
 rr.com
 s3.documentcloud.org
+safebrowsing.ironfoxoss.org
 sbcglobal.net
 scene7.com
 seal.globalsign.com
