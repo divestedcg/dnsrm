@@ -44,3 +44,4 @@ wiki.mozilla.org
 www.mozgcp.net
 www.mozilla.com
 www.mozilla.org
+firefox-portal-detection.com
